@@ -57,7 +57,6 @@
 
 .lesson-four-task-thirteen input:read-only {
      background-color: rgba(235, 201, 8, 0.884)
-          /*not work*/
 }
 
 
@@ -67,25 +66,21 @@
 
 .lesson-four-task-fourteen input:invalid {
      background: red
-          /*not work*/
 }
 
 
 .lesson-four-task-fifteen textarea:optional {
      background: red
-          /*not work*/
 }
 
 
 .lesson-four-task-sixteen input:out-of-range {
      background: red !important
-          /*not work*/
 }
 
 
 .lesson-four-task-seventeen input:in-range {
      background: red !important
-          /*not work*/
 }
 
 
@@ -95,7 +90,6 @@
 
 .lesson-four-task-nineteen .btn-group:focus-within {
      color: white;
-     /*not work*/
      background: yellow
 }
 
