@@ -1,9 +1,9 @@
-.lesson-four-task-one:hover {
+.lesson-four-task-one .btn:hover {
      color: red;
      background: yellow
 }
 
-.lesson-four-task-two h1:hover {
+.lesson-four-task-two .link:hover~.title {
      background: green
 }
 
@@ -88,7 +88,7 @@
      background: rgb(156, 22, 44)
 }
 
-.lesson-four-task-nineteen .btn-group:focus-within {
+.lesson-four-task-nineteen button:focus-within {
      color: white;
      background: yellow
 }
